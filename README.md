@@ -36,7 +36,4 @@ A powerful, streamlined application to transform meeting transcripts into action
 - `requirements.txt`: Python dependencies
 - `run_app.bat`: Quick launch script
 - `sample-transcript.txt`: Test data
-=======
-# GEN_AI
-# 📝 Smart Meeting Notes (Python Version)  A powerful, streamlined application to transform meeting transcripts into actionable insights using Python, Streamlit, and Groq API (Llama 3).
->>>>>>> 280557a7652a5f42a787fa28f1c071ac6f9e0880
+
