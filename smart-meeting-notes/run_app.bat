@@ -1,0 +1,6 @@
+@echo off
+echo Installing requirements...
+pip install -r requirements.txt
+echo Starting Smart Meeting Notes App...
+python -m streamlit run app.py
+pause
